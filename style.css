@@ -193,7 +193,7 @@
       min-height: 100vh;
       background: 
         linear-gradient(135deg, rgba(48,30,20,0.88) 0%, rgba(92,65,52,0.75) 50%, rgba(48,30,20,0.92) 100%),
-        url('main.jpeg') loading="lazy" center center / cover no-repeat fixed;
+        url('main.jpeg')  center center / cover no-repeat fixed;
       display: flex;
       align-items: center;
       position: relative;
